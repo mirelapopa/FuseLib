@@ -1,0 +1,26 @@
+[
+	{
+		"userID":"2",
+		"depression":0,
+		"comorbiditiesNeurologist":1,
+		"comorbiditiesPsychiatrist":1,		
+		"comorbiditiesCardiovascular":1,
+		"comorbiditiesUrinary":0,		
+		"hipertension":1,
+		"incontinence":1,
+		"insomnia":1,
+		"depression":0	
+	},
+	{
+		"userID":"3",
+		"depression":0,
+		"comorbiditiesNeurologist":1,
+		"comorbiditiesPsychiatrist":1,		
+		"comorbiditiesCardiovascular":1,
+		"comorbiditiesUrinary":0,		
+		"hipertension":1,
+		"incontinence":1,
+		"insomnia":1,
+		"depression":0	
+	}
+]	
